@@ -1,0 +1,11 @@
+1. API'S
+   API stands for Application Programming Interface. In the context of APIs, the word Application refers to any software with a distinct function. Interface can be thought of as a contract of service between two applications. This contract defines how the two communicate with each other using requests and responses.
+
+2. REST API 
+     REST APIs, or Representational State Transfer APIs, are a software architectural style for building web services that emphasize stateless communication and resource-based operations using HTTP. They are widely used for facilitating data exchange between applications, web services, and databases. 
+Separation of concerns between the client (front-end application) and the server (back-end service).
+
+3.GRAPHQL:
+     REST and GraphQL allow you to create, modify, update, and delete data on a separate application, service, or module via API. APIs developed with REST are known as RESTful APIs or REST APIs. Those developed with GraphQL are simply GraphQL APIs.
+4.SQL OR NOSQL
+     The decision to use SQL or NoSQL should be based on factors such as data structure, consistency requirements, scalability needs, and the complexity of queries. SQL databases are generally preferred for structured data and applications requiring strong transactional integrity, while NoSQL databases excel in handling large volumes of diverse data and scaling horizontally for high-performance, flexible applications.
