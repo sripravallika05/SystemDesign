@@ -1,1 +1,16 @@
+1. Client–Server Model
+   It’s the fundamental way the internet works.
 
+Client = A device/program that requests something (browser, mobile app).
+
+Server = A computer/system that provides a service or response.
+
+How It Works (Basic Flow)
+
+Client sends a request (e.g., type www.google.com).
+
+Server processes the request (Google’s servers find the right data).
+
+Server sends a response (HTML page, JSON data, etc.).
+
+Client displays it (browser shows Google homepage).
