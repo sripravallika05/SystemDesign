@@ -1,0 +1,10 @@
+What is System Design?
+
+System design is the process of defining the architecture, components, data flow, and interactions of a large-scale software system (like YouTube, WhatsApp, Amazon).
+It answers:
+
+How does the system work?
+
+How do different parts communicate?
+
+How does it scale to millions of users?
