@@ -14,3 +14,20 @@ Server processes the request (Google’s servers find the right data).
 Server sends a response (HTML page, JSON data, etc.).
 
 Client displays it (browser shows Google homepage).
+
+2. What is an API?
+
+An API is like a messenger that lets two software applications talk to each other.
+
+It defines how to request something and what you’ll get back.
+
+You don’t need to know the internal code — just how to “ask.”
+
+💡 Analogy:
+Think of a restaurant menu:
+
+Menu (API) lists what you can order.
+
+Kitchen (server) prepares the food.
+
+You (client) just place the order; you don’t need to know the recipe.
