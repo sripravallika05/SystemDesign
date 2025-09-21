@@ -1,0 +1,30 @@
+What is a Database?
+
+A database is a system that stores, organizes, and manages data so applications can access it efficiently.
+
+💡 Analogy:
+Think of a library:
+
+Books = Data
+
+Library system = Database management system (DBMS)
+
+Librarian = DBMS software helps you store, find, or update books quickly
+Types of Databases
+1. Relational Databases (SQL)
+
+Data stored in tables (rows & columns).
+
+Use Structured Query Language (SQL) for operations.
+
+Strong data integrity & relationships.
+
+Examples: MySQL, PostgreSQL, Oracle.
+  
+ 2. Non-Relational Databases (NoSQL)
+
+Data stored in documents, key-value pairs, or graphs.
+
+Flexible, scalable for huge datasets.
+
+Examples: MongoDB (document), Redis (key-value), Cassandra (wide column).
