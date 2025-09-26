@@ -38,3 +38,32 @@ Imagine you’re preparing for an exam:
 Reading the whole textbook every time = slow (like querying DB).
 
 Keeping short notes handy = fast (like cache).
+
+
+3.Load balancing
+  Load Balancing is the process of distributing incoming network traffic (user requests) across multiple servers so that no single server is overloaded.
+
+💡 Analogy:
+Think of a restaurant with many waiters:
+
+If all customers go to one waiter, service is slow.
+
+If customers are evenly distributed, everyone gets faster service.
+
+The manager (load balancer) assigns customers to waiters.
+example:
+User opens app/website → request goes to Load Balancer.
+
+Load Balancer decides which server should handle it.
+
+Request is served → response goes back to user.
+
+
+
+
+
+
+
+
+
+
