@@ -58,12 +58,28 @@ Load Balancer decides which server should handle it.
 
 Request is served → response goes back to user.
 
+APT  GATEWAY :
+An API Gateway is a server that acts as an entry point for clients to interact with backend services or microservices. 
+It manages all the API requests, handles routing, security, rate limiting, and other cross-cutting concerns.
 
+Key responsbilities
+Request Routing   Authentication & Authorization  Rate Limiting & Throttling   Caching    Load Balancing   Monitoring & Logging
 
+Popular API Gateway Solutions
 
+Cloud-Based:
 
+AWS API Gateway, Azure API Management, Google Cloud Endpoints
 
+Open-Source / Self-Hosted:
 
+Kong, NGINX, Tyk, Traefik, Zuul (Netflix)
 
+-->>  Client sends request to API Gateway.
 
+API Gateway authenticates the user.
+
+Routes request to the relevant service(s).
+
+Aggregates responses if needed and sends a single response back to the client.
 
