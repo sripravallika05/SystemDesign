@@ -83,3 +83,12 @@ Routes request to the relevant service(s).
 
 Aggregates responses if needed and sends a single response back to the client.
 
+2. Load Balancer :
+ A load balancer is a system (hardware or software) that distributes incoming network traffic or requests across multiple servers to ensure no single server is overwhelmed.
+Types of Load Balancers:
+
+Hardware Load Balancers – Dedicated physical devices (less common today).
+
+Software Load Balancers – Run on regular servers (e.g., Nginx, HAProxy, Envoy).
+
+Cloud Load Balancers – Offered as a service (e.g., AWS ELB, Azure Load Balancer, GCP Load Balancer).
