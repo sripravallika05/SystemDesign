@@ -1,0 +1,5 @@
+ CAP THEROEM:
+     The CAP theorem states that a distributed data store can only guarantee two out of three properties simultaneously: Consistency (all nodes see the same data at the same time), Availability (every request receives a response, even if the data isn't the latest), and Partition Tolerance (the system continues to work despite network failures)
+Consistency (C): Every read operation receives the most recent write or an error. All clients across the system see the same data simultaneously. 
+Availability (A): Every request receives a response, ensuring the system is always operational, even if some nodes are down. 
+Partition Tolerance (P): The system continues to operate even if communication breaks between nodes (a network partition). 
