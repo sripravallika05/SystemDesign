@@ -3,3 +3,15 @@
 Consistency (C): Every read operation receives the most recent write or an error. All clients across the system see the same data simultaneously. 
 Availability (A): Every request receives a response, ensuring the system is always operational, even if some nodes are down. 
 Partition Tolerance (P): The system continues to operate even if communication breaks between nodes (a network partition). 
+
+Consistent Hashing:
+     Consistent Hashing is a technique used in distributed systems to efficiently distribute data across a dynamic set of nodes (like servers or cache nodes) while minimizing data movement when nodes are added or removed.
+How Consistent Hashing Works
+
+Hash space as a circle (0 to MAX_HASH, often called a hash ring).
+
+Map servers to points on the ring using a hash function.
+
+Map keys to points on the ring using the same hash function.
+
+Assign a key to the first server clockwise from the key.
