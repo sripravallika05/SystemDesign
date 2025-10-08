@@ -15,3 +15,10 @@ Map servers to points on the ring using a hash function.
 Map keys to points on the ring using the same hash function.
 
 Assign a key to the first server clockwise from the key.
+
+Availability:
+     In system design, the term availability refers to the proportion of time a system is operational and accessible when needed.
+   Availability = 
+Uptime/
+Uptime + Downtime
+	​Example: If a system is available 99.9% of the time in a year, downtime ≈ 8.76 hours/year
