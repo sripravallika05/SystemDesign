@@ -22,3 +22,8 @@ Availability:
 Uptime/
 Uptime + Downtime
 	​Example: If a system is available 99.9% of the time in a year, downtime ≈ 8.76 hours/year
+
+DESIGN  PATTERNS:
+   it is used to design the model based on the terms. but we can use the same model in many number of times without repeating the terms.
+characterstics:
+   flexibility, reusability , efficiency,  standarization.
