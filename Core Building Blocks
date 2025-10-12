@@ -1,7 +1,7 @@
 1. Client–Server Model
    It’s the fundamental way the internet works.
 
-Client = A device/program that requests something (browser, mobile app).
+Client = A device/program that requests something (browser, mobile app)
 
 Server = A computer/system that provides a service or response
 
