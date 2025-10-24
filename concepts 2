@@ -3,7 +3,7 @@
 
 2. REST API 
      REST APIs, or Representational State Transfer APIs, are a software architectural style for building web services that emphasize stateless communication and resource-based operations using HTTP. They are widely used for facilitating data exchange between applications, web services, and databases. 
-Separation of concerns between the client (front-end application) and the server (back-end service).
+Separation of concerns between the client (front-end application) and the server (back-end service)
 
 3.GRAPHQL:
      REST and GraphQL allow you to create, modify, update, and delete data on a separate application, service, or module via API. APIs developed with REST are known as RESTful APIs or REST APIs. Those developed with GraphQL are simply GraphQL APIs.
